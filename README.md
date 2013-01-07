@@ -1,4 +1,4 @@
-TwitterBootstrapThemes
+Delicious Bootstrap Theme
 ======================
 
-Twitter Bootstrap Themes
+Delicious Bootstrap Theme
